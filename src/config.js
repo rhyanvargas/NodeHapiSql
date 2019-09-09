@@ -1,6 +1,6 @@
 "use strict"
 
-const assert = requrie("assert");
+const assert = require("assert");
 const dotenv = require("dotenv");
 
 // read .env file
